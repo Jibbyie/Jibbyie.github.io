@@ -1,3 +1,17 @@
 body {
   background-color: #EFF1ED;
 }
+
+a {
+  color: #AAAE7F;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #143109;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #D0D6B3;
+}
