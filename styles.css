@@ -16,17 +16,3 @@ body, html {
 .w3-bar .w3-button {
   padding: 16px;
 }
-
-
-a {
-  color: #AAAE7F;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #143109;
-}
-
-a:active {
-  color: #D0D6B3;
-}
