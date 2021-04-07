@@ -16,3 +16,22 @@ body, html {
 .w3-bar .w3-button {
   padding: 16px;
 }
+
+/* Skills section progress bar */
+.skillsbar {
+  background-color: #63C7B2;
+}
+
+/* About, Skills and Promo sections*/
+.palette1 {
+  background-color: #FEF9EF;
+}
+
+/* Contact section */
+.palette2 {
+  background-color: #F2F3AE;
+}
+
+.footercolour {
+  background-color: #17C3B2;
+}
